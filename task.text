@@ -1,0 +1,45 @@
+1
+//A
+Static programming:
+    A programming is statically typed if its variales are known at its compile time.
+
+        Examples: C, C++, Java, Rust, Go, Scala
+
+//B
+Dynamic programming:
+    A programming is dynamically type if the type of variable is not defined and types are checked in runtime.
+        
+        Examples: Perl, Ruby, Python, PHP, JavaScript, Erlang
+ 
+                      ************************************************
+2
+//A
+Scripting languages:
+    Scripting languages are programing languages that support the ability to write scripts. Unlike source files for other programming languages that must be compiled into bytecode before you run them, scripts are evaluated by a runtime environment (inthis case, by a script engine) directly.
+     
+        Examples : Python, Java, JavaScript, PHP, Ruby
+
+//B
+Programming languages:
+    Prongramming languages are languages in which it is complied to machie code by compiler.
+
+        Examples : Python, Java, JavaScript, PHP, Ruby, CSS, C+, Kotlin
+
+                  *********************************************************
+
+3
+//C 
+Programming Paradigms
+    Paradigm can also be termed as method to solve some problem or do some task. Programming paradigm is an approach to solve problem using some programming language or also we can say it is a method to solve a problem using tools and techniques that are available to us following some applied.
+   
+ **************************************************************************************************************************************
+//3
+
+HTTP1.1 vs HTTP2
+
+HTTP.1
+   In http1.1 the data the resources are load one after the other, it doesnt allow developers to prioritize which loads first in web page, so it is less efficient than http2.
+
+HTTP.2
+  In http2, it uses multiplexing that is within a single TCP connection it can send multiple streams of data at once and also allows developers to prioritize content which loaded first
+  ,hence it loads faster than http1.1 and more efficient.
